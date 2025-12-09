@@ -8,7 +8,7 @@ int main() {
     const char *person;
     const char *verb;
     const char *thing;
-    printf("type 'x' to generate a random sentence");
+    printf("type 'x' to generate a random sentence \n");
     scanf(" %c", &input);
 
     if (input == 'x') {
@@ -85,3 +85,4 @@ int main() {
 
     return 0;
 }
+
