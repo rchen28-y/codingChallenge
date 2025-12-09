@@ -1,3 +1,5 @@
+//this is the 5th optional challenge, which is to make a random sentence builder i think
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -85,4 +87,5 @@ int main() {
 
     return 0;
 }
+
 
